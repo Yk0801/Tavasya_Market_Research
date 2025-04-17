@@ -60,21 +60,3 @@ The study will employ a combination of both qualitative and quantitative researc
 3. Competitive analysis matrix.
 4. Suggested brand positioning and marketing strategy.
 5. Feasibility assessment of the location.
-
-## Timeline & Budget
-
-- **Proposal Submission Deadline**: 15/02/2025
-- Interested parties should submit proposals detailing the methodology, timeline, experience, cost estimates, and payment terms.
-
-## Contact Information
-
-For further queries or clarifications, please reach out to:
-
-- **Name**: Om Das (Tavasya Venture Partners Pvt Ltd.)
-- **Contact Number**: +91 91772 41701
-- **Email**: contactus@tavasya.com
-- **Website**: [www.tavasya.com](http://www.tavasya.com)
-
----
-
-You can use this structure for your GitHub README to clearly outline the project details, objectives, methodology, and deliverables.
